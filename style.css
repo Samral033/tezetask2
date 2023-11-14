@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    height:100px;
+    background-color: rgb(54, 54, 245);
+    color: white;
+}
+.senior{
+    float:left;
+    padding: 30px 15px;
+}
+
+.navbar, span{
+   float: right;
+   display: inline-block;
+}
+.nav-link{
+    display: inline-block;
+    padding: 10px;
+}
+.picture{
+ background: url('programming.jpg');
+ background-size: cover;
+ height:  530px;
+ width: 100%;
+ background-repeat: no-repeat;
+ 
+    
+}
+/* body{
+    background-image: url(programming.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; }*/
+
+.way{
+    text-decoration: none;
+    padding-top: 20px;
+}
+.section-text{
+    text-align: center;
+    color: blue;
+    
+   
+}
+.salam{
+    background-color: aqua;
+    align-items: center;
+    width: 90%;
+    border-radius: 15px;
+    margin: 0 auto;
+    max-width: 447px;
+    display: inline-block;
+    list-style: none;
+    border-radius: 30px;
+    
+
+    
+}
+.sagol{
+    background-color: blue;
+    align-items: center;
+    text-align: center;
+    width: 90%;
+    border-radius: 15px;
+    margin: 0 auto;
+    max-width: 447px;
+    display: inline-block;
+    list-style: none;
+    padding: 30px;
+   
+}
+.Basics{
+    padding: 2px 16px ;
+    text-align: center;
+}
+.recommend{
+    padding: 2px 16px ;
+    text-align: center;
+}
+.backed{
+    padding: 2px 16px ;
+    text-align: center;
+}
+.write1{
+    list-style: none;
+}
+button{
+   background-color: rgb(3, 3, 27);
+   color: white;
+   border-radius: 8px;
+   width: 87.3px;
+   height: 40px;
+}
+.dpny{
+    text-align: center;
+  
+}
+
+
+
+
+
+
+/* .radius{ 
+     
+    padding-left: 30px; 
+    display: inline-block; 
+    border-radius: 50%; 
+    width: 130px; 
+    height: 130px; 
+    margin: auto; 
+    border: 1px solid #ccc; 
+    background: #fff;
+    
+  } */
+  
+        
+.reson{
+    text-align: center;
+}
+    
+  
+  .clear-fix{ 
+    float: left; 
+  width: 33.33%; 
+  padding: 5px; 
+  background-color: green;
+    
+  } 
+  .bg-white{ 
+    padding-left: 30px; 
+    border-radius: 50%; 
+    width: 130px; 
+    height: 130px; 
+    margin: auto; 
+    border: 1px solid #ccc; 
+    background: #fff; 
+    color: black; 
+    
+   
+ 
+  }
+ .kabab{
+    text-align: center;
+ }
+ .end{ 
+    background-color: black; 
+    color: white; 
+    text-align: center; 
+    
+  }
+  
+  
